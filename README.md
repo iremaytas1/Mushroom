@@ -3,32 +3,32 @@
 # Mantarların Sınıflandırılması: Karar Ağaçları ile Zehirli ve Yenilebilir Mantarların Analizi
 
 Bu proje, karar ağaçları kullanarak mantarların zehirli veya yenilebilir olarak sınıflandırılmasını amaçlar. 
-UCI Machine Learning Repository'den alınan Mushroom veri seti üzerinde gerçekleştirilmiştir.
+UCI Machine Learning Repository'den alınan Mushroom veri seti üzerinde gerçekleştirilmiştir.<br>
 
 # Proje Hakkında
 
-Mantarların zehirli olup olmadığını belirlemek hayati önem taşır. Bu projede, mantarların çeşitli fiziksel özelliklerine dayanarak zehirli veya yenilebilir olduğunu tahmin eden bir makine öğrenmesi modeli geliştirilmiştir. Karar ağaçları ile oluşturulan model, %100 doğruluk oranıyla mükemmel bir sınıflandırma performansı göstermiştir.
+Mantarların zehirli olup olmadığını belirlemek hayati önem taşır. Bu projede, mantarların çeşitli fiziksel özelliklerine dayanarak zehirli veya yenilebilir olduğunu tahmin eden bir makine öğrenmesi modeli geliştirilmiştir. Karar ağaçları ile oluşturulan model, %100 doğruluk oranıyla mükemmel bir sınıflandırma performansı göstermiştir.<br>
 
 # Veri Seti
 
-UCI Mushroom Veri Seti buradan alınmıştır : https://archive.ics.uci.edu/dataset/73/mushroom
-Veri Seti :  [mantar.zip](https://github.com/user-attachments/files/20369328/mantar.zip)
-8,124 örnek
-22 kategorik özellik
-İki sınıf: Zehirli (poisonous) ve Yenilebilir (edible)
+UCI Mushroom Veri Seti buradan alınmıştır : https://archive.ics.uci.edu/dataset/73/mushroom<br>
+Veri Seti :  [mantar.zip](https://github.com/user-attachments/files/20369328/mantar.zip)<br>
+8,124 örnek<br>
+22 kategorik özellik<br>
+İki sınıf: Zehirli (poisonous) ve Yenilebilir (edible)<br>
 
 
 # Veri seti özellikleri şunları içerir:
 
-Şapka şekli, yüzeyi ve rengi
-Koku
-Lamel (gill) özellikleri
-Sap yapısı ve özellikleri
-ve diğer morfolojik özellikler
+Şapka şekli, yüzeyi ve rengi<br>
+Koku<br>
+Lamel (gill) özellikleri <br>
+Sap yapısı ve özellikleri <br>
+ve diğer morfolojik özellikler <br>
 
 # Kurulum
 
-Projeyi lokal ortamınızda çalıştırmak için aşağıdaki adımları izleyin:
+Projeyi lokal ortamınızda çalıştırmak için aşağıdaki adımları izleyin:<br>
 bash# Repository'yi klonlayın
 git clone https://github.com/kullanıcıadınız/mantar-siniflandirma.git
 cd mantar-siniflandirma
